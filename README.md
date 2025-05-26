@@ -1,14 +1,9 @@
 <h1 align="center">Hola, soy Sebastián Duque <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software+@bld.ai;Estudiante+de+Ciencias+de+la+Computaci%C3%B3n;Programador+Competitivo;Finalista+2x+ACPC;Experto+en+Codeforces;Divisi%C3%B3n+1+en+Codechef+(5+Estrellas);4+Kyu+en+Atcoder;Siempre+aprendiendo+nuevas+cosas"></a>
-</p>
-
-<br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Visitas%20al%20perfil&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=SEB4S-DL&label=Visitas%20al%20perfil&color=0047AB&style=plastic?" alt="SEB4S-DL" height=25px, width=160px/> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="SEB4S-DL" target="_blank" height=25px, width=250px/> 
 	</a>
 </p>
 
