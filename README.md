@@ -10,9 +10,9 @@
 
 <br><br>
 
-- :school: Soy `Junior` en el [Centro De Diseño E Innovación Tecnológica Industrial]() [SENA].
+- :school: Soy `Junior` en el Centro De Diseño E Innovación Tecnológica Industrial [SENA].
 - :technologist: Me encanta usar el software como solución para cada `problema`.
-- :student: Actualmente estoy aprendiendo `Ciencias de la Computación` e `Ingeniería de Software`.
+- :student: Actualmente estoy aprendiendo `Desarrollo back-end con php, python, javascript y java` y `Desarrollo web con django y react`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Actualmente abierto a nuevas `oportunidades laborales`, este es [MI CURRÍCULUM()].
 <br>
