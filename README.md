@@ -14,7 +14,7 @@
 - :technologist: Me encanta usar el software como solución para cada `problema`.
 - :student: Actualmente estoy aprendiendo `Desarrollo back-end con php, python, javascript y java` y `Desarrollo web con django y react`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Actualmente abierto a nuevas `oportunidades laborales`, este es [MI CURRÍCULUM()].
+- :thinking: Actualmente abierto a nuevas `oportunidades laborales`.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contacta conmigo
