@@ -8,7 +8,6 @@
 
 - :school: Soy programador `Junior` trainee, me apoyo en ia para reforzar conocimientos y resolución de ejercicios.
 - :technologist: Me encanta usar el software como solución para cada `problema`.
-- :student: Actualmente estoy aprendiendo `Desarrollo back-end con php, python, javascript, java` y `Desarrollo web con django y react`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Actualmente abierto a nuevas `oportunidades laborales`.
 <br>
