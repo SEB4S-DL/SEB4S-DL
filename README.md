@@ -174,25 +174,6 @@ Arquitectura de aplicaciones
 Buenas prácticas de desarrollo
 ```
 
-## 📌 Proyectos destacados
-
-### 🎟️ SistemaBoletas
-
-Aplicación web desarrollada con **ASP.NET Core MVC y .NET**, orientada a la gestión de rifas, vendedores, boletas, pagos y usuarios.
-
-**Tecnologías:**
-
-* C#
-* ASP.NET Core MVC
-* .NET
-* Entity Framework Core
-* SQL Server
-* Razor / `.cshtml`
-* Git / GitHub
-
-🔗 [Ver repositorio](https://github.com/SEB4S-DL/SistemaBoletas)
-
----
 
 ## 📊 GitHub
 
